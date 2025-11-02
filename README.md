@@ -1,10 +1,7 @@
 # 🧩 get_next_line
 
-**get_next_line** is a 42 project that teaches you how to read a file line by line —  
+**get_next_line** teaches me how to read a file line by line —  
 without losing your mind (or memory leaks 🧠💧).  
-
-It’s all about mastering static variables, file descriptors, and efficient memory handling.  
-You’ll basically recreate your own version of `fgets()` — but better, because you’ll truly understand how it works under the hood 🔧
 
 ---
 
