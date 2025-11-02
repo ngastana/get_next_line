@@ -1,7 +1,6 @@
 # 🧩 get_next_line
 
-**get_next_line** teaches me how to read a file line by line —  
-without losing your mind (or memory leaks 🧠💧).  
+**get_next_line** teaches me how to read a file line by line —  without losing your mind (or memory leaks 🧠💧).  
 
 ---
 
